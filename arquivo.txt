@@ -1,0 +1,6 @@
+TXT é o formato de arquivo de texto mais básico, usado para gerar arquivos de texto
+simples com pouca ou nenhuma formatação ou estilização. Você pode abrir arquivos .TXT em 
+diversos hardwares, sem se preocupar com a compatibilidade.
+Esses documentos geralmente são criados usando softwares de texto padrão, como o Bloco de
+ Notas da Microsoft e o Editor de Texto da Apple, que também funcionam 
+ como leitores de arquivos .TXT.

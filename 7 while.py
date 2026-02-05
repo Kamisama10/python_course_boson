@@ -1,0 +1,21 @@
+#while em Python cria um loop que se repete enquanto a condição for True.
+
+#imprimir os números de 1 a 10
+# num = 1
+
+while (num <= 10):
+    print(num)
+    num += 1
+print("Laço encerrado!")
+
+#laço infinito
+nome = None
+
+while True:
+    print("Digite seu nome, ou x para parar:")
+    nome = input()
+    if nome == "x" or nome == "X":
+        break
+    print(f"Bem-vindo, {nome}")
+print("Até logo!")
+
